@@ -140,19 +140,11 @@ slides: ""
 <style>
   /* Expands the reading text blocks by ~25% (Default is 65ch) */
   .prose, 
-  .max-w-prose { 
-    max-width: 85ch !important; 
-  }
-
+  .max-w-prose { max-width: 85ch !important; }
   /* Expands the overarching page container to allow the wider text */
-  .max-w-6xl { 
-    max-width: 90rem !important; 
-  }
-  
+  .max-w-6xl {  max-width: 90rem !important; }
   /* Hides the theme's automatic metadata rows */
-  .pub-row { 
-    display: none !important; 
-  }
+  .pub-row { display: none !important; }
 </style>
 
 <script>
