@@ -104,7 +104,7 @@ slides: ""
 ---
 {{< highres src="sample.png" alt="PoseVEC System" >}}
 
-<div class="not-prose max-w-prose grid grid-cols-1 md:grid-cols-[240px_auto] gap-4 my-6 text-base" style="line-height: 1.5;">
+<div class="not-prose max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6 text-base" style="line-height: 1.5;">
 
   <div class="font-bold text-2xl">Abstract</div>
   <div class="mb-4">
@@ -124,19 +124,13 @@ slides: ""
 </div>
 
 
-<!-- <style>
-  /* Expands the body text width */
-  .prose { max-width: 110% !important; }
-  .max-w-prose { max-width: 120% !important; }
-  .max-w-6xl { max-width: 100rem !important; }
-  .pub-row { display: none !important; }
-</style> -->
+
 <style>
   /* Expands the reading text blocks by ~25% (Default is 65ch) */
   .prose, 
-  .max-w-prose { max-width: 100ch !important; }
+  .max-w-prose { max-width: 120ch !important; }
   /* Expands the overarching page container to allow the wider text */
-  .max-w-6xl {  max-width: 100rem !important; }
+  .max-w-6xl {  max-width: 140rem !important; }
   /* Hides the theme's automatic metadata rows */
   .pub-row { display: none !important; }
 </style>

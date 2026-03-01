@@ -96,7 +96,7 @@ slides: ""
 ---
 {{< highres src="sample.png" alt="VR Training" >}}
 
-<div class="not-prose max-w-prose grid grid-cols-1 md:grid-cols-[400px_auto] gap-4 my-6 text-base" style="line-height: 1.5;">
+<div class="not-prose max-w-prose grid grid-cols-1 md:grid-cols-[150px_auto] gap-4 my-6 text-base" style="line-height: 1.5;">
 
   <div class="font-bold text-2xl">Abstract</div>
   <div class="mb-4">
@@ -110,7 +110,7 @@ slides: ""
 
   <div class="font-bold text-2xl mt-4">Video</div>
   <div class="video-container mt-4" style="margin-bottom: 2rem;">
-    <iframe width="100%" height="450" src="https://www.youtube.com/embed/ZmRH4Bv5xWU" title="Arlens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 8px;"></iframe>
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZmRH4Bv5xWU" title="Arlens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 8px;"></iframe>
   </div>
 
 </div>
@@ -126,9 +126,9 @@ slides: ""
 <style>
   /* Expands the reading text blocks by ~25% (Default is 65ch) */
   .prose, 
-  .max-w-prose { max-width: 100ch !important; }
+  .max-w-prose { max-width: 110ch !important; }
   /* Expands the overarching page container to allow the wider text */
-  .max-w-6xl {  max-width: 100rem !important; }
+  .max-w-6xl {  max-width: 120rem !important; }
   /* Hides the theme's automatic metadata rows */
   .pub-row { display: none !important; }
 </style>
