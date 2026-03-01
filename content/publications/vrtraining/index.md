@@ -96,7 +96,7 @@ slides: ""
 ---
 {{< highres src="sample.png" alt="VR Training" >}}
 
-<div class="not-prose max-w-prose grid grid-cols-1 md:grid-cols-[300px_auto] gap-4 my-6 text-base" style="line-height: 1.5;">
+<div class="not-prose max-w-prose grid grid-cols-1 md:grid-cols-[400px_auto] gap-4 my-6 text-base" style="line-height: 1.5;">
 
   <div class="font-bold text-2xl">Abstract</div>
   <div class="mb-4">
