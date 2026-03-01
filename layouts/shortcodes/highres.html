@@ -1,0 +1,6 @@
+{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+{{ if $image }}
+  <div class="featured-image-wrapper" style="margin: 2rem 0;">
+    <img src="{{ $image.RelPermalink }}" style="width: 100%; height: auto; border-radius: 8px;" alt="{{ .Get "alt" }}">
+  </div>
+{{ end }}

@@ -41,3 +41,7 @@ hugoblox:
       enable: true
   search:
     enable: true
+  # imaging:
+  #   resampleFilter: "Lanczos"
+  #   quality: 100  # Setting this to 100 prevents almost all compression artifacts
+  #   hint: "picture"
